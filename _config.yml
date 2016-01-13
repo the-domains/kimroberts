@@ -1,0 +1,28 @@
+name: KimRoberts
+favicon: null
+layout_spectrum: 0.12901379773393273
+typography_spectrum: 0.6926292099524289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4082926877308637
+  lightness: 0.6829483360052109
+  saturation: 0.43300195480696857
+  rhythmicContrast: 0.37488975771702826
+purpose: []
